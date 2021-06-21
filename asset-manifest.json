@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/tribute2.0/static/css/main.6dda9ca2.chunk.css",
+    "main.js": "/tribute2.0/static/js/main.af854510.chunk.js",
+    "main.js.map": "/tribute2.0/static/js/main.af854510.chunk.js.map",
+    "runtime-main.js": "/tribute2.0/static/js/runtime-main.de0863b7.js",
+    "runtime-main.js.map": "/tribute2.0/static/js/runtime-main.de0863b7.js.map",
+    "static/js/2.d4421599.chunk.js": "/tribute2.0/static/js/2.d4421599.chunk.js",
+    "static/js/2.d4421599.chunk.js.map": "/tribute2.0/static/js/2.d4421599.chunk.js.map",
+    "index.html": "/tribute2.0/index.html",
+    "static/css/main.6dda9ca2.chunk.css.map": "/tribute2.0/static/css/main.6dda9ca2.chunk.css.map",
+    "static/js/2.d4421599.chunk.js.LICENSE.txt": "/tribute2.0/static/js/2.d4421599.chunk.js.LICENSE.txt",
+    "static/media/Metallica-Logo.f2551751.png": "/tribute2.0/static/media/Metallica-Logo.f2551751.png",
+    "static/media/anger.ba8d7d09.jpg": "/tribute2.0/static/media/anger.ba8d7d09.jpg",
+    "static/media/cliff.72a33ea7.jpg": "/tribute2.0/static/media/cliff.72a33ea7.jpg",
+    "static/media/dave.b50f900e.jpg": "/tribute2.0/static/media/dave.b50f900e.jpg",
+    "static/media/hardwired.4f83dd90.jpg": "/tribute2.0/static/media/hardwired.4f83dd90.jpg",
+    "static/media/james.7abe3957.jpg": "/tribute2.0/static/media/james.7abe3957.jpg",
+    "static/media/jason.fd83e4ad.jpg": "/tribute2.0/static/media/jason.fd83e4ad.jpg",
+    "static/media/justice.9ee5fa5e.jpg": "/tribute2.0/static/media/justice.9ee5fa5e.jpg",
+    "static/media/killemall.f43e909a.jpg": "/tribute2.0/static/media/killemall.f43e909a.jpg",
+    "static/media/kirk.3667baf0.jpg": "/tribute2.0/static/media/kirk.3667baf0.jpg",
+    "static/media/lars.dbb58fe7.jpg": "/tribute2.0/static/media/lars.dbb58fe7.jpg",
+    "static/media/load.36b789b1.jpg": "/tribute2.0/static/media/load.36b789b1.jpg",
+    "static/media/magnetic.627b82e9.jpg": "/tribute2.0/static/media/magnetic.627b82e9.jpg",
+    "static/media/master.63467d3c.jpg": "/tribute2.0/static/media/master.63467d3c.jpg",
+    "static/media/metallica.40a9ab18.png": "/tribute2.0/static/media/metallica.40a9ab18.png",
+    "static/media/reload.91caae2f.jpg": "/tribute2.0/static/media/reload.91caae2f.jpg",
+    "static/media/ridethelightning.02473860.jpg": "/tribute2.0/static/media/ridethelightning.02473860.jpg",
+    "static/media/robert.b908fd21.jpg": "/tribute2.0/static/media/robert.b908fd21.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de0863b7.js",
+    "static/js/2.d4421599.chunk.js",
+    "static/css/main.6dda9ca2.chunk.css",
+    "static/js/main.af854510.chunk.js"
+  ]
+}
